@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4CAF50"         # 따뜻한 녹색 (자연, 희망)
+backgroundColor = "#FFFFFF"       # 깨끗한 흰색 배경
+secondaryBackgroundColor = "#F4F9F4"  # 연한 민트색 배경
+textColor = "#3E4040"            # 부드러운 어두운 회색
+font = "sans serif"
